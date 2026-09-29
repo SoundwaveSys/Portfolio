@@ -1,7 +1,7 @@
 # 🚀 Personal Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SoundwaveSys/SoundwaveSys/main/SoundwaveSys/new-readme-images/gwen-header.png" alt="Portfolio Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/SoundwaveSys/Portfolio/refs/heads/main/Portfolio/Portfolio.png" alt="Portfolio Banner" width="100%">
 </p>
 
 <h2 align="center">Prathamesh Mane</h2>
